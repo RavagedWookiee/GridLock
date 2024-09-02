@@ -40,3 +40,8 @@
 
 ## Current Build Pictures
 
+Current UI Build
+![image](https://github.com/user-attachments/assets/946dfad6-49e4-4dc1-834f-d66eba9089db)
+
+Pip Weapons
+![image](https://github.com/user-attachments/assets/3bb41de0-a45c-44c4-9e11-aed407c9438f)
