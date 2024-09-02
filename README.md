@@ -6,24 +6,24 @@
 ### September
 
 - Add Remaining Planned Techs
-- - Simple Crops Plots
-- - Farms
-- - Hydroponics
-- - Wells
-- - Advance Wells
-- - Grid Search
-- - Faster Search
-- - Rations
-- - Meal Planning
-- - ZOC Upgrades
-- - Reinforced Structs
-- - Advance Structs
-- - Watch Tower
-- - Large Towers
-- - Advance Towers
-- - Better Repair
-- - Over Repair
-- - Reduced Struct Cost
+  - Simple Crops Plots
+  - Farms
+  - Hydroponics
+  - Wells
+  - Advance Wells
+  - Grid Search
+  - Faster Search
+  - Rations
+  - Meal Planning
+  - ZOC Upgrades
+  - Reinforced Structs
+  - Advance Structs
+  - Watch Tower
+  - Large Towers
+  - Advance Towers
+  - Better Repair
+  - Over Repair
+  - Reduced Struct Cost
 
 - Finish Enemy Building Interactions/Damage
   
@@ -36,3 +36,7 @@
 - Claim Buildings in the ZOC
   
 - Building Conversion
+
+
+## Current Build Pictures
+
